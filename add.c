@@ -2,6 +2,6 @@
 
 int add(int a, int b)
 {
-    //add
+    //add func
     return a+b;
 }
